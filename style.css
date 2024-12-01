@@ -50,7 +50,7 @@ nav ul li a:hover {
 }
 section {
     padding: 20px;
-    text-align: flex;
+    text-align: justify;
 }
 h1, h2 {
     color: #333;
